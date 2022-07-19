@@ -1,9 +1,6 @@
 # AngularGameDB
 
 An Activity project application for IT 331 - Application Development and Emerging Technologies from sir JM
-
-# NgVideoGameDb
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
 ## Development server
