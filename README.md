@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## UI Screenshots
 
-Check these screenshots to have a glimpse to the constructed system.
+Check these screenshots to have a glimpse of the constructed system.
 ![1658215340968](image/README/1658215340968.png)
 
 ![1658215370503](image/README/1658215370503.png)
