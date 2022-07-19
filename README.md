@@ -36,4 +36,4 @@ Check these screenshots to have a glimpse of the constructed system.
 
 ![1658235908166](image/README/1658235908166.png)
 
-![1658235932648](image/README/1658235932648.png)
+![1658237071757](image/README/1658237071757.png)
