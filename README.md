@@ -32,6 +32,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Check these screenshots to have a glimpse of the constructed system.
 ![1658215340968](image/README/1658215340968.png)
 
-![1658215370503](image/README/1658215370503.png)![1658229463517](image/README/1658229463517.png)
+![1658235884907](image/README/1658235884907.png)
 
-![1658229484802](image/README/1658229484802.png)
+![1658235908166](image/README/1658235908166.png)
+
+![1658235932648](image/README/1658235932648.png)
